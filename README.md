@@ -1,2 +1,2 @@
 # Analizador_Bien_Genial
-potocaca
+# potocaca
